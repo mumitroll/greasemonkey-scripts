@@ -4,7 +4,7 @@
 // @include       *imagefap.com/*
 // @require       http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.js
 // @require       http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/jquery-ui.min.js
-// @require       http://layout.jquery-dev.net/download/jquery.layout.min.js
+// @require       http://layout.jquery-dev.com/download/jquery.layout.min-1.2.0.js
 // ==/UserScript==
 // imageFapThumbSize.user.js
 
